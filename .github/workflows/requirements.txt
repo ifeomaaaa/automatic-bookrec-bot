@@ -1,6 +1,0 @@
-jupyterlab
-nbclient
-Twython
-time
-sys
-random
